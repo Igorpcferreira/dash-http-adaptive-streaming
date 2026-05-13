@@ -114,13 +114,3 @@ Caso a porta `8080` esteja ocupada, execute o servidor em outra porta e informe 
 - Print do cliente baixando segmentos e alternando representações.
 - Print do servidor registrando os `GET` para `/stream.mpd` e `/seg_*_*.m4s`.
 
-## Comandos Git
-
-```bash
-git init
-git add .
-git commit -m "Implementa simulacao DASH sobre HTTP"
-git branch -M main
-git remote add origin URL_DO_REPOSITORIO
-git push -u origin main
-```
